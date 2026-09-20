@@ -163,8 +163,8 @@ ROBOTICS    ████████████░░░░░░░░
 <a href="https://github.com/AlphaOshyy">
 <img src="https://img.shields.io/badge/GitHub-AlphaOshyy-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
-<a href="https://www.linkedin.com/in/oshan-tanusha/">
-<img src="https://img.shields.io/badge/LinkedIn-Oshan_Tanusha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://lk.linkedin.com/in/oshan-tanusha-661906356">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <br><br>
