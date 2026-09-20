@@ -1,73 +1,87 @@
 <div align="center">
 
 # NOVA
+
 ### Oshan Tanusha
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineering+Student;Web+Developer;Music+Creator;Building+Digital+Experiences;Turning+Ideas+Into+Working+Projects" alt="Typing introduction" />
+**SOFTWARE ENGINEERING × MUSIC × CREATIVE TECHNOLOGY**
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=820&lines=Software+Engineering+Student;Web+Developer;Music+Creator;Building+MusicLink;Turning+Ideas+Into+Working+Products" alt="Animated introduction" />
+
+<br>
 
 <a href="https://github.com/AlphaOshyy">
-  <img src="https://komarev.com/ghpvc/?username=AlphaOshyy&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge" alt="Profile views" />
-</a>
-<a href="https://github.com/AlphaOshyy?tab=followers">
-  <img src="https://img.shields.io/github/followers/AlphaOshyy?style=for-the-badge&label=FOLLOWERS&color=0d1117" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=AlphaOshyy&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile views">
 </a>
 
 </div>
 
 ---
 
-## ABOUT
+## ⚡ WHO I AM
 
-I'm Oshan Tanusha, known online as Nova.
+I'm Oshan Tanusha, known online as **Nova**.
 
-I'm a Software Engineering student building web experiences, creative tools, interactive projects, and music related technology.
+Software Engineering student building things across **web development, music, creative technology, and interactive hardware**.
 
-My work sits between code and creativity. I build projects I would personally use, then push them further with animation, interaction, and strong visual direction.
+I like projects that look good, work properly, and have a reason to exist.
 
 ---
 
-## CURRENTLY BUILDING
+## 🎧 CURRENT BUILD
+
+<div align="center">
+
+### MUSICLINK
+
+**A zero-budget music industry project**
+
+Helping artists and music creators connect ideas, tools, and opportunities through one focused digital experience.
+
+<a href="https://github.com/AlphaOshyy/musiclink">
+<img src="https://img.shields.io/badge/EXPLORE_MUSICLINK-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore MusicLink">
+</a>
+
+</div>
+
+---
+
+## 🧠 PROJECTS
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🎧 MusicLink
+Music industry focused web project for artists and creators.
 
-A music industry focused project built around helping artists, creators, and people working around music connect more effectively.
-
-<a href="https://github.com/AlphaOshyy/musiclink">View MusicLink</a>
+<a href="https://github.com/AlphaOshyy/musiclink">Repository</a>
 
 </td>
 <td width="50%">
 
-### 🦖 DinoNor
+### 🎮 BLVND Arena
+Digital experience for a gaming arena and cafe in Galle.
 
-A zero investment web agency project focused on building polished websites for local businesses and creators.
-
-<a href="https://github.com/AlphaOshyy">Explore projects</a>
+<a href="https://github.com/AlphaOshyy/BLVND-Arena">Repository</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎮 BLVND Gaming Arena
+### 🤖 NYX
+Arduino desktop companion robot with interactive emotions and sensors.
 
-Gaming arena concept and digital experience for BLVND Gaming Arena & Cafe in Galle.
-
-<a href="https://github.com/AlphaOshyy/BLVND-Arena">View BLVND</a>
+<a href="https://github.com/AlphaOshyy/Nyx">Repository</a>
 
 </td>
 <td width="50%">
 
-### 🤖 NYX
+### 🎤 NOVA
+Personal artist identity and creative portfolio project.
 
-An interactive desktop companion robot built with Arduino, designed as a small rule based robotic companion.
-
-<a href="https://github.com/AlphaOshyy/Nyx">View NYX</a>
+<a href="https://github.com/AlphaOshyy/Nova">Repository</a>
 
 </td>
 </tr>
@@ -75,103 +89,86 @@ An interactive desktop companion robot built with Arduino, designed as a small r
 
 ---
 
-## WHAT I BUILD
+## 🛠️ STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,cs,sql,git,github,arduino,vscode&perline=10" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,cs,sql,git,github,arduino,vscode&perline=10" alt="Technology stack">
 
 </div>
 
-<br/>
+<br>
 
-| Area | Focus |
+| BUILD AREA | TECHNOLOGY |
 |---|---|
-| Web Development | HTML, CSS, JavaScript, responsive interfaces |
-| Software Engineering | Java, C#, SQL, application development |
-| Creative Technology | Music tools, interactive experiences, creator websites |
-| Hardware | Arduino based interactive systems |
-| Deployment | GitHub Pages and web project deployment |
+| Web | HTML · CSS · JavaScript |
+| Software | Java · C# · SQL |
+| Creative | Music · Creator Websites · Interactive UI |
+| Hardware | Arduino · Sensors · Servos · OLED |
+| Deployment | GitHub · GitHub Pages |
 
 ---
 
-## MUSIC × CODE
+## 🎵 CODE MEETS MUSIC
 
-Music is part of my identity outside software engineering.
+Music isn't separate from what I build.
 
-I'm building my own artist presence as Nova while exploring ways technology can support artists, creators, and the wider music ecosystem.
+I'm developing my identity as **Nova** while building technology around the music ecosystem.
+
+**MusicLink** is where those two sides meet.
 
 <div align="center">
 
 <a href="https://github.com/AlphaOshyy/musiclink">
-<img src="https://img.shields.io/badge/MUSICLINK-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="MusicLink" />
+<img src="https://img.shields.io/badge/MUSICLINK-111111?style=for-the-badge&logo=github&logoColor=58A6FF" alt="MusicLink">
 </a>
 <a href="https://github.com/AlphaOshyy/Nova">
-<img src="https://img.shields.io/badge/NOVA-111111?style=for-the-badge&logo=github&logoColor=white" alt="Nova project" />
+<img src="https://img.shields.io/badge/NOVA-111111?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Nova">
 </a>
 
 </div>
 
 ---
 
-## GITHUB ACTIVITY
+## 📊 GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlphaOshyy&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaOshyy&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlphaOshyy&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" height="170" alt="GitHub statistics">
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AlphaOshyy&theme=transparent&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaOshyy&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="170" alt="Top languages">
 
 </div>
 
 ---
 
-## FEATURED WORK
-
-<div align="center">
-
-<a href="https://github.com/AlphaOshyy/musiclink">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaOshyy&repo=musiclink&theme=transparent&hide_border=true" alt="MusicLink repository" />
-</a>
-
-<a href="https://github.com/AlphaOshyy/BLVND-Arena">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaOshyy&repo=BLVND-Arena&theme=transparent&hide_border=true" alt="BLVND Arena repository" />
-</a>
-
-</div>
-
----
-
-## NOW
+## 🚀 CURRENT MODE
 
 ```text
-Software Engineering     ████████████████████
-Web Development          ██████████████████░░
-Creative Technology      ████████████████░░░░
-Music                    █████████████████░░░
-Robotics                 ████████████░░░░░░░░
+BUILD       ████████████████████
+LEARN       ██████████████████░░
+MUSIC       █████████████████░░░
+WEB         ██████████████████░░
+ROBOTICS    ████████████░░░░░░░░
 ```
 
-Building. Learning. Shipping.
+**Building. Learning. Shipping.**
 
 ---
 
-## CONNECT
+## 🔗 FIND ME
 
 <div align="center">
 
 <a href="https://github.com/AlphaOshyy">
-<img src="https://img.shields.io/badge/GitHub-AlphaOshyy-181717?style=for-the-badge&logo=github" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-AlphaOshyy-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/oshan-tanusha/">
-<img src="https://img.shields.io/badge/LinkedIn-Oshan_Tanusha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Oshan_Tanusha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&text=NOVA&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=70&desc=Code%20%2B%20Music%20%2B%20Creative%20Technology&descAlignY=88&descSize=14" alt="NOVA footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=NOVA&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=72&desc=CODE%20×%20MUSIC%20×%20CREATIVE%20TECHNOLOGY&descAlignY=91&descSize=12" alt="NOVA footer">
 
 </div>
