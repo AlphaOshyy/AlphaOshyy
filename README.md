@@ -134,11 +134,23 @@ I'm developing my identity as **Nova** while building technology around the musi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlphaOshyy&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" height="170" alt="GitHub statistics">
+<a href="https://github.com/AlphaOshyy">
+<img src="https://img.shields.io/badge/GitHub-AlphaOshyy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaOshyy&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="170" alt="Top languages">
+<a href="https://github.com/AlphaOshyy?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+</a>
+
+<a href="https://github.com/AlphaOshyy?tab=stars">
+<img src="https://img.shields.io/badge/Stars-View-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars">
+</a>
 
 </div>
+
+> GitHub stats cards removed because the external `github-readme-stats` image service was not rendering reliably in the profile README.
+
+---
 
 ---
 
@@ -164,7 +176,10 @@ ROBOTICS    ████████████░░░░░░░░
 <img src="https://img.shields.io/badge/GitHub-AlphaOshyy-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 <a href="https://lk.linkedin.com/in/oshan-tanusha-661906356">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-362_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn 362 followers">
+</a>
+<a href="https://www.instagram.com/oshyynova/">
+<img src="https://img.shields.io/badge/Instagram-@oshyynova-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @oshyynova">
 </a>
 
 <br><br>
