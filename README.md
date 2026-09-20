@@ -148,8 +148,6 @@ I'm developing my identity as **Nova** while building technology around the musi
 
 </div>
 
-> GitHub stats cards removed because the external `github-readme-stats` image service was not rendering reliably in the profile README.
-
 ---
 
 ---
@@ -176,7 +174,7 @@ ROBOTICS    ████████████░░░░░░░░
 <img src="https://img.shields.io/badge/GitHub-AlphaOshyy-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 <a href="https://lk.linkedin.com/in/oshan-tanusha-661906356">
-<img src="https://img.shields.io/badge/LinkedIn-362_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn 362 followers">
+<img src="https://img.shields.io/badge/LinkedIn-639_Followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn 362 followers">
 </a>
 <a href="https://www.instagram.com/oshyynova/">
 <img src="https://img.shields.io/badge/Instagram-@oshyynova-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @oshyynova">
